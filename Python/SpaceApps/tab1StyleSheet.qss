@@ -1,0 +1,60 @@
+QPushButton {
+    border-collapse: collapse;
+    background-color: #16a085;
+    color: #f3f3f3;
+    width: 100%;
+    font-size: 15pt;
+    font: Comic Sans;
+    font-weight: bold;
+}
+
+QMessageBox {
+    background: #34495e;
+}
+
+QMessageBox QLabel {
+    font-size: 15pt;
+    color: #f3f3f3;
+    font: Comic Sans;
+    font-weight: bold;
+}
+
+QHeaderView::section {
+    font-size: 14pt;
+    font: Comic Sans;
+    border-collapse: collapse;
+    background: #34495e;
+    color: #f3f3f3;
+    font-weight: bold;
+}
+
+QTableWidget {
+    width: 100%;
+    font-size: 15pt;
+    font: Comic Sans;
+    border-collapse: collapse;
+    background: #16a085;
+    color: #f3f3f3;
+    font-weight: bold;
+}
+
+QTabBar::tab:selected {
+    background: #336699;
+    font-size: 14pt;
+    font: Comic Sans;
+}
+
+QTextBrowser {
+    background: #34495e;
+    font-size: 15pt;
+    color: #f3f3f3;
+    font: Comic Sans;
+    font-weight: bold;
+}
+
+QLabel {
+    font-size: 15pt;
+    color: #34495e;
+    font: Comic Sans;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+QPushButton {
+    color: #34495e;
+    width: 100%;
+    font-size: 17pt;
+    font: Comic Sans;
+    font-weight: bold;
+}
+
+QLabel {
+    font-size: 17pt;
+    color: #34495e;
+    font: Comic Sans;
+    font-weight: bold;
+}
